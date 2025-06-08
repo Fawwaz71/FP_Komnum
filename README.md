@@ -78,9 +78,8 @@ print(f"Error (Et): {error}%")
 # Explanation
 ---
 ## Formula used:
-$$
-f(x) = f_0 + s \Delta f_0 + \frac{s(s - 1)}{2!} \Delta^2 f + \frac{1}{3} \cdot \frac{s(s - 1)}{2!}(x - \frac{1}{2}) \Delta^3 f_{-1} + \frac{s(s - 1)(s - 2)(s - 3)}{4!} \Delta^4 f
-$$
+![image](https://github.com/user-attachments/assets/599cdf6f-203c-4005-9f80-8a2e56468b74)
+
 ---
 ## Breakdown on each functions in the code:
 ---
